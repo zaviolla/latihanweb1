@@ -1,2 +1,3 @@
-# latihanweb1
-nama : chairuniesya nim : 2205101101
+# latihanModul1
+Nama : chairuniesya
+nim : 2205101101
